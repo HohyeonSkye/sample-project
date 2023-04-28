@@ -7,4 +7,15 @@ assignees: ''
 
 ---
 
-##
+## 설명
+
+- 꼭 한 줄 요약을 해주세요.
+
+## 할 일
+
+- [ ] Item 1
+- [ ] Item 2
+
+## 참조
+
+- [google](https://www.google.com)
